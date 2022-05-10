@@ -4,3 +4,7 @@ Clase 2 sincrónica
 casa
 perro 
 casa
+mono
+gato
+
+
